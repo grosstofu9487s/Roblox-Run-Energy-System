@@ -1,4 +1,4 @@
-# Roblox-Run-Energy-System
+# Roblox-RunAndEnergySystem
 ## How To Use: 
 <br>1.Put the "RunScript.rbxm" into Roblox Studio
 <br>2.Put the LocalScript which named "RunScript" into StarterGui
